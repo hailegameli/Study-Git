@@ -1,4 +1,6 @@
 *.sh
-*txt
-*php
-*html
+*.txt
+*.php
+*.html
+*.css
+
